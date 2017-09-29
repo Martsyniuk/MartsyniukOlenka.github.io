@@ -1,0 +1,110 @@
+.header {
+	
+    .top-header {
+		height: 308px;
+        background-color: #F7931E;
+    }
+    .middle-header{
+    	background-image: url(../img/middle-header-fon.png);
+    	height: 597px;
+    	background-repeat: no-repeat;
+    	-webkit-background-size: cover;
+    	background-size: cover;
+    }
+    .header-fon {
+    	margin-top: 50px;
+    }
+    .wrapper-header {
+		
+    }
+    .racket {
+    	margin-top: 48px;
+    	margin-right: 10px;
+    	float: left;
+    }
+    .wrapper-logo-text{
+    	padding-top: 81px;
+
+    }
+    .title-under-img-racket{
+    	display: inline;
+    	color: #fff;
+    	font-size: 40px;
+    	font-weight: bold;
+    	font-family: "Open Sans";
+    	margin: 0;
+    }
+    .text-under-title {
+    	color: #fff;
+    	font-size: 14px;
+    	font-family: "Open Sans Semibold";
+    	margin: 0;
+    }
+    .title {
+		color: #fff;
+		font-family: "Open Sans Light";
+		font-size: 35px;
+		margin: 92px 0 0 0;
+    }
+    .list {
+		margin: 0;
+		list-style: none; 
+        padding: 40px 0 40px 20px; 
+    }
+    .list-link {
+        display: inline;
+		text-transform: uppercase;
+    }
+    .link {
+        color: #000;
+        text-decoration: none;
+        font-family: "Open Sans Semibold";
+        font-size: 16px;
+        padding: 0 30px 0 20px;
+    }
+    .link:hover {
+        background-color: #fff;
+        background-image: url(../img/arr.png);
+        background-repeat: no-repeat;
+        padding: 0 30px 0 20px;   
+    }
+    .main:hover{
+        background-position: 100px 7px;
+    }
+    .company:hover{
+        background-position: 142px 7px;
+    }
+    .sales:hover{
+        background-position: 90px 7px;
+    }
+    .portfolio:hover{
+        background-position: 135px 7px;
+    }
+    .contacts:hover{
+        background-position: 117px 7px;
+    }
+    .big-racket{
+        margin-top: 148px;
+        margin-right: 8px;
+        float: left;
+    }
+    .wrapper-logo-text-big-racket{
+        padding-top: 195px;
+    }
+    .title-under-img-big-racket{
+        display: inline;
+        color: #fff;
+        font-size: 77px;
+        font-weight: bold;
+        font-family: "Open Sans";
+        margin: 0;
+        line-height: 68px;
+    }
+    .text-under-title-big-raket{
+        color: #fff;
+        font-size: 25px;
+        font-family: "Open Sans Semibold";
+        margin: 0;
+        padding-left: 125px;
+    }	
+}
